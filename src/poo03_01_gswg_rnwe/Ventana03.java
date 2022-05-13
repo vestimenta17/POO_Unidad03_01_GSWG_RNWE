@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author morti
+ * @Guallimba, Ramón
  */
 public class Ventana03 extends JFrame{
 

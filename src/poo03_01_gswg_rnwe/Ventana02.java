@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 /**
  *
- * @author User
+ * @Guallimba, Ramón
  */
 public class Ventana02 extends JFrame {
      private JPanel jPanel1;
