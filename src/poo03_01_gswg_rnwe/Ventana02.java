@@ -57,9 +57,9 @@ public class Ventana02 extends JFrame {
             this.jLabelList.get(0).setBackground(Color.PINK);
             this.jLabelList.get(0).setOpaque(true);
             this.jLabelList.get(0).setText("          Computación");
-            this.jLabelList.get(1).setBackground(Color.RED);
+            this.jLabelList.get(1).setBackground(Color.GRAY);
             this.jLabelList.get(1).setOpaque(true);
-            this.jLabelList.get(1).setText("           Electrónica");
+            this.jLabelList.get(1).setText("                    2");
             this.jLabelList.get(2).setBackground(Color.YELLOW);
             this.jLabelList.get(2).setOpaque(true);
             this.jLabelList.get(2).setText("   Telecomunicaciones");
